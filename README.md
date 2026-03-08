@@ -1,7 +1,7 @@
 
 <h2> Paso Principal Login. </h2>
 <p align="center">
-  <img src="./Login.png" width="1000"/>
+  <img src="./flujologinn.png" width="800"/>
   <code>sequenceDiagram
     participant User as Usuario (Front)
     participant Front as Frontend
